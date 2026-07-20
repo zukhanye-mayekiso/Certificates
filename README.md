@@ -10,4 +10,4 @@ They show my commitment to using both academic knowledge and practical experienc
 
 ## Certifications
 
-Machine learning with R - file:///C:/Users/zukha/Downloads/IBM.pdf
+
