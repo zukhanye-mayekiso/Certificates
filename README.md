@@ -9,18 +9,6 @@ They show my commitment to using both academic knowledge and practical experienc
 
 ## Certifications
 
-<p align="center">
+## Certifications
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Visit_Profile-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge">
-</a>
-
-<a href="YOUR_CV">
-<img src="https://img.shields.io/badge/CV-Download-red?style=for-the-badge">
-</a>
-
-</p>
+➡️ [View All Certifications](https://github.com/zukhanye-mayekiso/Zukhanye-Certifications)
