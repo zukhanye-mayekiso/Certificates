@@ -7,6 +7,9 @@ This collection highlights the certifications I have obtained in Data Science, P
 They demonstrate my dedication to lifelong learning and the development of useful abilities in programming, data analytics, and cutting-edge technology.
 They show my commitment to using both academic knowledge and practical experience to address real-world problems and complement the projects on my GitHub profile.
 
+## CERTIFICATIONS 
+
+Machine Learning - https://github.com/zukhanye-mayekiso/Certificates/blob/main/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_4v4L47GGahKwf752F_1756128158213_completion_certificate.pdf
 
 ## Areas of Interest:
 Data Analytics
