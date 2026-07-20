@@ -9,10 +9,18 @@ They show my commitment to using both academic knowledge and practical experienc
 
 ## Certifications
 
-[![Python](https://img.shields.io/badge/Python_Essentials_1-View_Certificate-blue)](YOUR_LINK)
+<p align="center">
 
-[![JavaScript](https://img.shields.io/badge/JavaScript_Essentials_1-View_Certificate-yellow)](YOUR_LINK)
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Visit_Profile-blue?style=for-the-badge&logo=linkedin">
+</a>
 
-[![IBM](https://img.shields.io/badge/IBM_Data_Visualization_with_R-View_Certificate-black)](YOUR_LINK)
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge">
+</a>
 
-[![Internship](https://img.shields.io/badge/Future_Interns-View_Certificate-success)](YOUR_LINK)
+<a href="YOUR_CV">
+<img src="https://img.shields.io/badge/CV-Download-red?style=for-the-badge">
+</a>
+
+</p>
